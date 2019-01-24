@@ -576,7 +576,7 @@ div.loading img {
 
 .preloader {
 	background-color: #ffffff;
-	background-image: url("../img/icon/preloader.gif");
+	background-image: url("https://loading.io/spinners/lava-lamp/index.lava-lamp-preloader.svg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	height: 100%;
